@@ -1,0 +1,25 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TylerSnow-M/Jest-Another-RPG.git~.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TylerSnow-M/Jest-Another-RPG.git~/issues"
+  },
+  "homepage": "https://github.com/TylerSnow-M/Jest-Another-RPG.git~#readme",
+  "devDependencies": {
+    "jest": "^29.6.0"
+  },
+  "description": ""
+}
